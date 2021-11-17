@@ -187,7 +187,7 @@ def log_fb():
 			time.sleep(1)
 
 
- token():
+token():
     os.system("clear")
     print"\033[1;96m[!] \x1b[1;91mToken invalid"
     try:
