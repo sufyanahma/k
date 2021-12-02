@@ -485,7 +485,8 @@ def menu_select():
 
 	elif select =="3":
 
-		.system("clear")
+                os.system("clear")
+
 
 		print logo
 
