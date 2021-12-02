@@ -438,7 +438,7 @@ def menu_select():
 		os.system("clear")
 		
 
-		 print(logo)
+		print(logo)
 		
 		p1 = raw_input("(*) Name + Pass : ")
 		p2 = raw_input("(*) Name + Pass : ")
